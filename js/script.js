@@ -19,8 +19,6 @@ obj.a = 10;
 
 console.log(obj);
 
-console.log(name);
-var name = 'Ivan';
 let result = 50;
 
 console.log(result);
